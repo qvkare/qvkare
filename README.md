@@ -1,1 +1,1 @@
-### I believe in the power of modularism to drive innovation in blockchain and web3. My work as a node operator and researcher reflects this philosophy.
+### As a node operator, web3 researcher, and modularity enthusiast, I strive to build efficient, scalable blockchain solutions.
