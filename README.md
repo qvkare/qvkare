@@ -1,1 +1,1 @@
-### blocks and jpeg maxi.
+### blocks and pixel maxi.
